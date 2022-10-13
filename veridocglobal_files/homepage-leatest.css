@@ -1,0 +1,196 @@
+﻿ /*----------banner-start--------*/
+.main-wrap h1 {font-weight: bold !important;}
+.homepage-main-class .homepage-banner-title .home-page-sub-title {color: #25984e !important;font-size: 33px !important;padding: 39px 5px 0px 5px !important;}
+.homepage-banner-img {min-height: 910px;}
+.homepage-main-class .homepage-banner-title {padding: 33px 10px 39px 0px ;}
+.homepage-main-class .homepage-banner-title p {padding: 30px 10px 39px 0px !important;}
+.homepage-banner-img-globe img {margin: 55px auto 0px;}
+/*----------banner-end--------*/
+﻿/***--------Our mission stetment----------***/
+.our-mission-statement-main .our-missoin-text.new-background .our-team-sec-title {color: #25984e;}
+.our-mission-statement-main .our-team-sec-header {margin-bottom: 25px;}
+.our-mission-statement-main .mission-content-text {color: #000;font-size: 23px;transition: none 0s ease 0s;text-align: inherit;line-height: 38px;letter-spacing: 0px;font-weight: 300;width: 85%;text-align: center;margin: 0 auto;padding: 12px 0;}
+.our-mission-statement-main .mission-content-text:last-child {padding: 20px 20px 0;}
+.common-margin-sec {padding: 80px 0;}
+.our-mission-statement-main.common-margin-sec .our-team-sec-title {color: #25984e;}
+/***--------Our mission stetment-end---------***/
+/***--------solution-slider------***/
+.solution-new-slider.new-background {background: #021728;color: #fff;}
+.solution-new-slider.new-background .content-roadmap-new p {padding: 50px 0 36px 0px;}
+.new-background .roadmap-partners-header::before, .new-background .roadmap-partners-header::after {border-bottom: solid 5px #192e3f;}
+.sol-slider-owl-title {padding: 10px 0;font-size: 17px;text-transform: uppercase;color: #25984e;}
+.learn-more-link {color: #fff;text-transform: uppercase;padding: 10px 0;clear: both;display: block;}
+.learn-more-link:hover, .learn-more-link:focus{color:  #fff;}
+.passport-content-slider:hover {background: #031c2d;z-index: 2;    -webkit-transition: all 400ms ease-in;-webkit-transform: scale(1.1);-ms-transition: all 400ms ease-in;-ms-transform: scale(1.1);-moz-transition: all 400ms ease-in;-moz-transform: scale(1.1);transition: all 400ms ease-in;transition: all 400ms ease-out;transform: scale(1.1);}
+/***--------solution-slider-end-----***/
+/****-----------developer-tool-section-----***/
+.developer-tool-main {background: linear-gradient(to right, #117b3c 0%, #59b246 51%, #59b246 100%);position: relative;}
+.home-banner-bg .banner-contetn{margin:85px 0px 0px 0px;}
+/*.home-banner-padding {padding: 0px 50px;}*/
+.home-banner-bg .banner-contetn .banner-content-title {font-size: 30px;color: #fff;font-weight: bold;margin-bottom: 0px;line-height:40px;}
+.home-banner-bg .banner-contetn .banner-content-sub {color: #fff;font-size: 20px;padding: 10px 0px;line-height: 26px;margin:20px 0 30px;}
+.home-banner-bg .banner-contetn .get-Started {display: inline-block;background-color: #fff;color: green;padding: 10px 26px;font-size: 22px;font-weight: bold;}
+.home-banner-bg  .laptop-bg-image {padding:10px 0px;max-width: 819px;}
+.get-started-main .get-Started:hover {
+    box-shadow: 550px 0 0 #198f51 inset;
+    border: 1px solid #237813;
+    color: #fff !important;
+    background-color: #198f51 !important;
+}
+.get-started-main  .get-Started:focus {
+    background: #198f51 !important;
+    color: #fff !important;
+    border: 1px solid #198f51 !important;
+    box-shadow: inset 550px 0 0 0 #198f51 !important;
+}
+.get-started-main .get-Started {
+   
+    color: #fff;
+    box-shadow: 0 0 1px #ccc;
+    -webkit-transition-duration: 0.5s;
+    -webkit-transition-timing-function: linear;
+    box-shadow: 0px 0 0 #198f51 inset;
+    border: 1px solid #fff;
+}
+/****-----------developer-tool-section-end-----***/
+/****-----------New-footer-design-----***/
+.app-footer.developer-footer {
+    padding: 60px 0 32px;
+}
+.developer-footer .footer-app-image img {width: 45%;}
+.developer-footer .appstore-image-app {margin-right: 10px;}
+.developer-footer .footer-global-green {color: #70ba4d;margin-top: 0;font-weight: bold;}
+.developer-footer .application-content a.new-before-email {color: #c0c0c0;}
+.developer-footer .application-content {font-size: 14px;margin: 20px 0;line-height: 22px;color: #c0c0c0;}
+.developer-footer .desktop-view-social {float: left;}
+.developer-footer #developer-tool .developer-tool-button {padding:6px 20px !important;color: #fff !important;font-size: 18px;}
+.developer-footer #developer-tool .content-of-tools {display: inline-block;padding: 0 0 0 10px;float: left;width: 65%;font-size: 14px;line-height: 18px;}
+.developer-footer .developer-tool-footer-main {padding: 0 25px 0 20px;}
+.developer-footer .footer-logo-img {width: 75%;}
+.developer-footer .footer-logo-img img{width: 100%;}
+.developer-footer .footer-follow-social-process .social-media-icon a i {padding: 0 4px;font-size: 23px;line-height:90px;color: #c0c0c0;}
+.footer-last-section {background-color: #000;color: #fff;padding: 15px 0;border-top: 1px solid #212121;}
+.footer-last-section .copyright {font-size: 14px;}
+.footer-last-section .Slogan-div img {width: 100%;}
+/****-----------New-footer-design-end----***/
+
+
+/*----------video-start--------*/
+
+
+.home-page-video-main {position: relative;padding:0px;}
+.home-page-video-main .bg-image-green {width: 100%;height:520px;}
+.home-page-video-main .modal-backdrop.in {filter: alpha(opacity=50);opacity: .5;display: none !important;}
+.home-page-video-main .modal {opacity: 1;-moz-opacity: 1;}
+.home-page-video-main .content-over-video {position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);}
+.home-page-video-main .modal-content{background-color:transparent;}
+.home-page-video-main  .modal-footer {border-top: none;}
+    .home-page-video-main button.btn.btn-outline-primary.btn-rounded.btn-md.ml-4 {
+        background: none;
+        color: #fff;
+        position: absolute;
+        font-size: 18px;
+        right: -39px;
+        top: -30px;
+        font-weight: normal;
+    }
+.home-page-video-main .over-content-title {text-align: center;color: #fff;font-size: 38px;}
+.home-page-video-main .over-content-sub-title {color: #fff;font-size: 17px;display:block;}
+    .home-page-video-main .over-content-below-title {font-size: 21px;color: #fff;font-weight: bold;padding: 20px 0px 8px 0px;display: block;}
+.home-page-video-main .content-over-video {width: 35%;margin: 0 auto;text-align: center;display: table;padding: 0px 10px;}
+.home-page-video-main .content-over-video img {width: 65px;}
+.home-page-video-main .image-video-icon {padding: 40px 0px;display:block;}
+.home-page-video-main  .modal-body {position: relative;padding: 0px;}
+.home-page-video-main .modal-footer {padding: 0px;}
+.home-page-video-main .modal {background-color: rgba(37, 152, 77, 0.9);}
+.home-page-video-main .modal-content {background-color: unset;}
+
+
+/*----------video-end--------*/
+/*----------scanner-start--------*/
+section.veridoc-global-scanner.desktop-view-scanner {
+    background-image: url('../img/Homepage_images/bg.jpg');
+    background-size: cover;
+    padding: 90px 0 70px
+}
+.veridoc-global-scanner.desktop-view-scanner .scanner-image-global img {width: 443px;float:left;}
+.veridoc-global-scanner.desktop-view-scanner .content-image-title {width: 100%;display: inline-block;}
+    .veridoc-global-scanner.desktop-view-scanner .content-image-title img {float: left;width: 13%;}
+    .veridoc-global-scanner.desktop-view-scanner .content-image-title p {float: left;width: 87%;}
+.veridoc-global-scanner.desktop-view-scanner .content-title-scanner {font-weight: bold;font-size: 38px;line-height: 2;padding-left: 24px;}
+.veridoc-global-scanner.desktop-view-scanner .content-image-sub-title {font-weight: bold;font-size: 25px;padding: 10px 0px 5px;}
+.veridoc-global-scanner.desktop-view-scanner .scanner-main-content {font-size: 17px;}
+.veridoc-global-scanner.desktop-view-scanner .content-scanner-listing li {list-style: disc;font-size:17px;}
+.veridoc-global-scanner.desktop-view-scanner .content-scanner-listing {padding-left: 37px;padding-bottom:15px;}
+.veridoc-global-scanner.desktop-view-scanner .download-icon-all {width: 100%;display: inline-block;padding-top: 20px;}
+    .veridoc-global-scanner.desktop-view-scanner .download-icon-all .ios-app {float: left;width: 35%;}
+    .veridoc-global-scanner.desktop-view-scanner .download-icon-all .android-app {float: left;width: 35%;margin-left: 27px;}
+.veridoc-global-scanner.desktop-view-scanner .left-mobile-image {width: 50%;float: left;}
+.veridoc-global-scanner.desktop-view-scanner .right-mobile-content {width: 50%;float: left;}
+.veridoc-global-scanner.desktop-view-scanner .scanner-main-content.listing-scanning {padding-top: 5px;}
+.veridoc-global-scanner.desktop-view-scanner .scanner-main-content.listing-scanning.gradiwnt-box-mobile p {margin-bottom: 0px;}
+section.veridoc-global-scanner.mobile-view-scanner {background-image: url('../img/Homepage_images/bg.jpg');background-size: cover;padding: 60px 0 60px}
+.veridoc-global-scanner.mobile-view-scanner .mobile-view-content-main-scanner {display: table;margin: 0 auto;text-align: center;}
+.veridoc-global-scanner.mobile-view-scanner .logo-scannig img {width: 80px;}
+.veridoc-global-scanner.mobile-view-scanner .mobile-view-content-title {font-size: 32px;font-weight: bold;padding: 20px 0px;}
+.veridoc-global-scanner.mobile-view-scanner .content-mobile-sub-title {font-weight: bold;font-size: 19px;}
+.veridoc-global-scanner.mobile-view-scanner .scanner-main-content-mobile {font-size: 16px;}
+.veridoc-global-scanner.mobile-view-scanner .scanner-main-content-mobile.bolding-font {font-weight: bold;}
+.veridoc-global-scanner.mobile-view-scanner .download-icon-all {display: table;padding-top: 25px;margin: 0 auto;}
+.veridoc-global-scanner.mobile-view-scanner .download-icon-all .ios-app {float: left;}
+.veridoc-global-scanner.mobile-view-scanner .download-icon-all .ios-app img {width: 195px;}
+.veridoc-global-scanner.mobile-view-scanner .download-icon-all .android-app {float: left;}
+.veridoc-global-scanner.mobile-view-scanner .download-icon-all .android-app img{width:195px;margin-left:35px;}
+.veridoc-global-scanner.mobile-view-scanner .gradiwnt-box-mobile {background: linear-gradient(to right, #117b3c 0%, #59b246 51%, #59b246 100%);color: #fff;padding: 20px 10px 15px 10px;font-size: 16px;margin:25px 0px;}
+.veridoc-global-scanner.mobile-view-scanner .scanner-main-content-mobile.bolding-font-gradient {font-weight: bold;margin-bottom: 10px !important;font-size:18px;}
+    .veridoc-global-scanner.mobile-view-scanner .gradiwnt-box-mobile .scanner-main-content-mobile{margin-bottom:5px;}
+/*----------scanner-end--------*/
+
+/************news-letter-subcriber-start*************/
+.news-letter-home-page {background-image: url('../img/Homepage_images/newslatter_bg.jpg');padding: 80px 0px 90px 0px;background-size: cover;background-repeat: no-repeat;}
+.roadmap-partners-header.news-letter-line::before {content: '';width: 23%;border-bottom: solid 5px #63a66b;}
+.roadmap-partners-header.news-letter-line::after {content: '';width: 23%;border-bottom: solid 5px #8fba6f;}
+.news-letter-home-page .roadmap-partners-header.news-letter-line {
+    height: unset;
+}
+.news-letter-home-page .sub-title-news {font-size: 20px;color: #fff;padding: 25px 5px 40px 5px;text-align: center;}
+.news-letter-home-page .subscriber-btn-new input[type="email"] {height: 50px;}
+.news-letter-home-page .subscriber-btn-new .input-group-btn .subscribe-btn-main {
+    background: linear-gradient(to right, #000000 0%, #0e151c 45%, #0e3351 100%);
+    padding: 6px 22px;
+    font-size: 17px;
+    color: #fff;
+    border: 1px solid #0e3351;
+    border-radius: 0px;
+    height: 50px;
+    font-family: unset;
+    text-transform: unset;
+    font-weight: unset;
+    letter-spacing: unset;
+	z-index:0;
+}
+    .news-letter-home-page .subscriber-btn-new .input-group-btn .subscribe-btn-main:focus{outline:unset;}
+    .news-letter-home-page .subscriber-btn-new .input-group-btn a {
+        color: #fff;
+    }
+.news-letter-home-page .subscriber-btn-new .input-group input::placeholder {font-size: 15px;}
+.news-letter-home-page .subscriber-btn-new .input-group .form-control {font-size: 17px;}
+.news-letter-home-page .subscriber-btn-new .input-group .form-control {
+        border:1px solid #dddddd !important;
+        box-shadow:unset !important;
+        transition:unset;
+       
+    }
+    .news-letter-home-page .subscriber-btn-new .input-group .form-control:focus {
+        border: 1px solid #dddddd !important;
+        z-index:2;
+       
+    }
+.news-letter-home-page .error-msg-main-new {
+    margin: 15px 0px 0px 0px;
+    text-align: center;
+}
+/************news-letter-subcriber-end*************/
+
+
+

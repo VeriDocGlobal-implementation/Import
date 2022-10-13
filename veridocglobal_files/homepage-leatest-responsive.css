@@ -1,0 +1,509 @@
+@media(min-width:991px){
+    /*----------scanner-start--------*/
+    /*.veridoc-global-scanner.desktop-view-scanner{display:block;}
+    .veridoc-global-scanner.mobile-view-scanner{display:none;}*/
+
+    /*----------scanner-end--------*/
+}
+@media (min-width: 768px) {
+    .home-page-video-main .modal {text-align: center;padding: 0 !important;}
+.home-page-video-main .modal-dialog {display: inline-block;text-align: left;vertical-align: middle;}
+    .home-page-video-main .modal:before {
+        content: '';
+        display: inline-block;
+        height: 100%;
+        vertical-align: middle;
+        margin-right: -4px;
+    }
+
+}
+@media only screen and (max-width:1680px) {
+    /****-----------developer-tool-section------***/
+.home-banner-bg .banner-contetn {margin: 88px 0px 0px 0px;}
+.home-banner-bg .banner-contetn .banner-content-sub {margin:15px 0 25px;}
+    /****-----------developer-tool-section-end-----***/
+    /*----------video-start--------*/
+ .home-page-video-main .content-over-video {width: 60%;}
+    /*----------video-end--------*/
+    }
+@media only screen and (max-width:1440px) {
+    /****-----------developer-tool-section------***/
+
+    /****-----------developer-tool-section-end-----***/
+    /*----------banner-start--------*/
+    .homepage-banner-img {
+        min-height: 897px;
+    }
+    /*----------banner-end--------*/
+}
+@media only screen and (max-width:1366px) {
+    /****-----------developer-tool-section------***/
+
+.home-banner-bg .banner-contetn .banner-content-title {font-size: 30px;}
+.home-banner-bg .banner-contetn .banner-content-sub {font-size: 20px;}
+    /****-----------developer-tool-section-end-----***/
+}
+@media only screen and (max-width:1280px) {
+    /****-----------developer-tool-section------***/
+.home-banner-bg .banner-contetn .banner-content-title {font-size: 27px;}
+.home-banner-bg .banner-contetn .banner-content-sub {font-size: 18px;}
+    /****-----------developer-tool-section-end-----***/
+    /*----------banner-start--------*/
+ 
+    /*----------banner-end--------*/
+}
+@media only screen and (max-width:1199px) {
+    /*----------video-start--------*/
+     .home-page-video-main .content-over-video {width: 80%;}
+    /*----------video-end--------*/
+    /*----------banner-start--------*/
+    .homepage-main-class .homepage-banner-title {padding: 33px 10px 0px 0px;}
+    .homepage-main-class .homepage-banner-title p {padding: 31px 10px 42px 0px !important;}
+    .homepage-main-class .homepage-banner-title .home-page-sub-title {color: #25984e !important;font-size: 33px;padding: 21px 5px 0px 5px;}
+    .homepage-banner-img-globe img {margin: 28px auto 0px;}
+    .homepage-banner-img {min-height: unset!important;}
+    
+    .homepage-banner-img {
+        padding: 0px 0 59px;
+    }
+    /*----------banner-end--------*/
+    /*----------scanner-start--------*/
+    .veridoc-global-scanner.desktop-view-scanner .content-image-title img {width: 12%;}
+    .veridoc-global-scanner.desktop-view-scanner .content-image-title p {width: 88%;}
+    .veridoc-global-scanner.desktop-view-scanner .content-title-scanner {font-weight: bold;font-size: 27px;line-height: 1.7;padding-left: 18px;}
+    .veridoc-global-scanner.desktop-view-scanner .scanner-image-global img {width: 338px;}
+    .veridoc-global-scanner.desktop-view-scanner .content-image-sub-title {margin-bottom:0px;font-size: 17px;padding: 0px 0px 5px;}
+    .veridoc-global-scanner.desktop-view-scanner .scanner-main-content {font-size: 14px;}
+    .veridoc-global-scanner.desktop-view-scanner .content-scanner-listing li {font-size: 14px;}
+    .veridoc-global-scanner.desktop-view-scanner .scanner-main-content.listing-scanning {padding-top: 0px; }
+    .veridoc-global-scanner.desktop-view-scanner .content-scanner-listing {padding-left: 28px;padding-bottom: 5px;}
+    .veridoc-global-scanner.desktop-view-scanner .download-icon-all {width: 100%;display: inline-block;padding-top: 8px;}
+    .veridoc-global-scanner.desktop-view-scanner .scanner-main-content.download-icon-padding {font-size: 14px;margin-bottom:0px;}
+    .veridoc-global-scanner.desktop-view-scanner .scanner-main-content.content-padding-scanner {margin-bottom: 5px;}
+    /*----------scanner-end--------*/
+    /****-----------developer-tool-section------***/
+.home-banner-bg .banner-contetn {margin:67px 0px 0px 0px;}
+.home-banner-bg .banner-contetn .banner-content-title {font-size: 22px;line-height: 32px;}
+.home-banner-bg .banner-contetn .banner-content-sub {font-size: 15px;line-height: 24px;margin: 10px 0 20px;}
+    /****-----------developer-tool-section-end-----***/
+    /****-----------New-footer-design-----***/
+    .app-footer.developer-footer {padding: 25px 0 0;}
+    .developer-footer .new-footer-design-main {margin: 0 auto;display: table;text-align: center;}
+    .developer-footer .footer-app-image img {width: 15%;}
+    .developer-footer .footer-logo-img {width: 100%;}
+    .developer-footer .application-content {font-size: 18px;margin: 10px 0 0;}
+    .developer-footer .tool-button {margin: 30px 0 40px 0;}
+     .footer-last-section {border-top: unset;}
+    .developer-footer .footer-app-image {margin: 25px 0 40px;}
+    .developer-footer .footer-follow-social-process .social-media-icon a i {padding: 0 10px;}
+    .Slogan-div {text-align: center;width: 360px;margin: 0 auto 10px;display: table;}
+    .footer-last-section .copyright {font-size: 10px !important;display: table;margin: 0 auto;}
+      .developer-footer .footer-logo-sec {margin:25px auto 35px;display: table;}
+	  .footer-last-section {padding: 0px 0 15px;}
+    /****-----------New-footer-design-end----***/
+    }
+@media(max-width:1024px) {
+  
+
+
+    /****-----------developer-tool-section------***/
+    .home-banner-bg .banner-contetn {margin: 122px 0px 0px 0px;}
+    /****-----------developer-tool-section-end-----***/
+
+
+}
+@media only screen and (max-width:991px) {
+    /*----------video-start--------*/
+      .home-page-video-main .content-over-video {width: 100%;}
+    .home-page-video-main .bg-image-green {width: 100%;height: 430px;}
+    .home-page-video-main .mobile-view-video {display: block !important;}
+    .home-page-video-main .desktop-mobile-view {display: none;}
+    /*----------video-end--------*/
+    /*----------banner-start--------*/
+    .homepage-main-class .homepage-banner-title {
+        padding: 33px 10px 37px 0px;
+    }
+     .homepage-main-class .homepage-banner-title .home-page-sub-title {padding: 35px 5px 5px 5px;}
+    .banner-btn-main-button {margin: 0px auto;}
+    .homepage-banner-img {padding: 0 0 13px;}
+   .homepage-banner-img {padding: 0 0 22px!important;}
+    .homepage-banner-img-globe img {margin: 7px auto 0px;}
+    /*----------banner-end--------*/
+    /*----------scanner-start--------*/
+    section.veridoc-global-scanner.mobile-view-scanner {padding: 60px 0 60px;}
+  
+    .veridoc-global-scanner .scanner-image-global {display: none;}
+    .veridoc-global-scanner.desktop-view-scanner .right-mobile-content {width: 100%;float: unset;text-align: center;}
+    .veridoc-global-scanner.desktop-view-scanner .listing-scanning.gradiwnt-box-mobile {background: linear-gradient(to right, #117b3c 0%, #59b246 51%, #59b246 100%);color: #fff;padding: 20px 10px 15px 10px;font-size: 16px;margin: 25px 0px;}
+    .veridoc-global-scanner.desktop-view-scanner .content-image-title p {width: 100%;}
+    .veridoc-global-scanner.desktop-view-scanner .content-image-title img {width: 80px;float: unset;display: table;margin: 0 auto 20px auto;
+    }
+    .veridoc-global-scanner.desktop-view-scanner .content-title-scanner {font-size: 32px;}
+    .veridoc-global-scanner.desktop-view-scanner .content-image-sub-title {font-size: 19px;}
+    .veridoc-global-scanner.desktop-view-scanner .scanner-main-content {font-size: 16px;}
+    .veridoc-global-scanner.desktop-view-scanner .listing-scanning.gradiwnt-box-mobile {font-size: 18px;font-weight: bold;line-height:30px;}
+    .veridoc-global-scanner.desktop-view-scanner .content-scanner-listing {font-weight: 100;font-size:16px;}
+.veridoc-global-scanner.desktop-view-scanner .content-scanner-listing li {list-style-type: none !important;}
+    .veridoc-global-scanner.desktop-view-scanner .download-icon-all {display: table;padding-top: 25px;margin: 0 auto;}
+    .veridoc-global-scanner.desktop-view-scanner .content-scanner-listing {padding-left: 0px;padding-bottom: 0px;}
+    .veridoc-global-scanner.desktop-view-scanner .download-icon-all {width: auto;}
+    .veridoc-global-scanner.desktop-view-scanner .scanner-main-content.listing-scanning.gradiwnt-box-mobile p {margin-bottom: 10px;}
+
+        .veridoc-global-scanner.desktop-view-scanner .download-icon-all .ios-app {width: unset;}
+        .veridoc-global-scanner.desktop-view-scanner .download-icon-all .android-app {width: unset;}
+.veridoc-global-scanner.desktop-view-scanner .download-icon-all .ios-app {float: left;}
+.veridoc-global-scanner.desktop-view-scanner .download-icon-all .ios-app img {width: 195px;}
+.veridoc-global-scanner.desktop-view-scanner .download-icon-all .android-app {float: left;margin-left:0px;}
+.veridoc-global-scanner.desktop-view-scanner .download-icon-all .android-app img{width:195px;margin-left:35px;}
+    section.veridoc-global-scanner.desktop-view-scanner {
+        background-image: url(../img/Homepage_images/bg.jpg);
+        background-size: cover;
+        padding: 60px 0 50px;
+    }
+    .veridoc-global-scanner.desktop-view-scanner .content-scanner-listing li {font-size: 16px;}
+    .veridoc-global-scanner.desktop-view-scanner .scanner-main-content.download-icon-padding {
+        font-size: 16px;
+        margin-bottom: 10px;
+        font-weight: bold;
+    }
+    /*----------scanner-end--------*/
+  /***--------Our mission stetment----------***/
+.common-margin-sec {padding: 50px 0;}
+.our-mission-statement-main .our-team-sec-header {margin-bottom:0px;}
+.our-mission-statement-main .mission-content-text {font-size: 25px;width: 100%;padding:8px 0;}
+.our-mission-statement-main .mission-content-text:last-child {padding:8px 0 5px;}
+   /***--------Our mission stetment-end---------***/
+    /***--------solution-slider------***/
+.passport-content-slider {margin-bottom: 5px;}
+.solution-new-slider.new-background {padding: 50px 0 70px;}
+.solution-new-slider.new-background .content-roadmap-new p {padding: 12px 0 25px 0px;}
+    /***--------solution-slider-end------***/
+    /****-----------developer-tool-section------***/
+.integrated-api-content-text {display: none;}
+.banner-contetn {display: block !important;}
+.home-banner-bg {margin: 0 auto;display: table;text-align: center;}
+.home-banner-bg .banner-contetn .banner-content-title {font-size: 32px;line-height: 46px;}
+.home-banner-bg .banner-contetn .banner-content-sub {font-size: 26px;line-height: 42px;margin: 0 0 40px;padding: 0;}
+.home-banner-bg .laptop-bg-image {max-width: 600px;margin: 0 auto;display: table;text-align: center;padding: 50px 0px;}
+.home-banner-bg .banner-contetn {margin: 0;}
+
+        /****-----------developer-tool-section-end-----***/
+        /****-----------New-footer-design-----***/
+        .developer-footer .footer-logo-img img {width: 90%;}
+      .developer-footer .footer-logo-sec {margin: 10px auto 20px;}
+      .developer-footer .footer-app-image img {width: 18%;}
+      .app-footer.developer-footer {padding: 40px 0 0;}
+
+    /****-----------New-footer-design-end----***/
+	  /************news-letter-subcriber-start*************/
+    .news-letter-home-page {padding: 60px 0px;}
+    .roadmap-partners-header.news-letter-line::before {content: '';width: 16%;}
+.roadmap-partners-header.news-letter-line::after {content: '';width: 16%;}
+    .news-letter-home-page .subscriber-btn-new input[type="email"] {height: 44px;}
+    .news-letter-home-page .subscriber-btn-new .input-group-btn .subscribe-btn-main {height: 44px;}
+    /************news-letter-subcriber-end*************/
+  
+}
+@media(max-width:800px){
+    /*----------banner-start--------*/
+    .banner-btn-main-button {
+       
+        padding: 39px 0px 10px 0px;
+        
+    }
+    .homepage-main-class .homepage-banner-title p {padding: 15px 10px 30px 0px !important;}
+    .homepage-main-class .homepage-banner-title .home-page-sub-title {padding: 27px 5px 5px 5px !important;}
+    /*----------banner-end--------*/
+}
+@media only screen and (max-width:767px){
+   
+    /*----------banner-start--------*/
+     .homepage-main-class .homepage-banner-title .home-page-sub-title {font-size: 27px!important;}
+    .homepage-main-class .homepage-banner-title {padding: 33px 10px 40px 0px;}
+    /*----------banner-end--------*/
+    /***--------solution-slider-------***/
+.solution-new-slider.new-background {padding: 50px 0 20px;}
+.passport-content-slider:hover {background: unset;z-index: unset;-webkit-transition: unset;-webkit-transform: unset;-ms-transition: unset;-ms-transform: unset;-moz-transition: unset;-moz-transform: unset;transition: unset;transition: unset;transform: unset;}
+    /***--------solution-slider-end------***/
+    /*.home-page-video-main .modal-dialog {
+        position: relative;
+        width: auto;
+        margin: 36px;
+    }*/
+	   /************news-letter-subcriber-start*************/
+    .news-letter-home-page .sub-title-news br {
+        display: none;
+    }
+    /************news-letter-subcriber-end*************/
+}
+@media only screen and (max-width:736px) {
+    /****-----------developer-tool-section------***/
+.home-banner-bg .banner-contetn .banner-content-sub {font-size: 24px;line-height: 34px;}
+    .home-banner-bg .banner-contetn .banner-content-title {font-size: 30px;line-height: 40px;}
+    /****-----------developer-tool-section-end-----***/
+    .home-page-video-main button.btn.btn-outline-primary.btn-rounded.btn-md.ml-4 {
+        background: none;
+        color: #fff;
+        position: relative;
+        font-size: 18px;
+        right: -18px;
+        top: 0;
+        font-weight: normal;
+    }
+
+    .home-page-video-main .modal-dialog {
+        position: unset;
+        width: 67%;
+        margin: 0 auto;
+        top: 20%;
+        padding: 35px;
+    }
+	  /************news-letter-subcriber-start*************/
+    .roadmap-partners-header.news-letter-line::before {display: none;}
+.roadmap-partners-header.news-letter-line::after {display: none;}
+
+    /************news-letter-subcriber-end*************/
+}
+
+@media only screen and (max-width:667px) {
+    /*----------banner-start--------*/
+    .homepage-main-class .homepage-banner-title p {padding: 15px 10px 30px 0px !important;}
+    .homepage-main-class .homepage-banner-title {padding: 10px 10px 40px 0px;}
+    .homepage-main-class .homepage-banner-title .home-page-sub-title {font-size: 33px;padding: 19px 5px 8px 5px;}
+    .banner-btn-main-button {
+        padding: 35px 0px 7px 0px;
+    }
+    /*----------banner-end--------*/
+    /*----------video-start--------*/
+    .home-page-video-main .bg-image-green {width: 100%;height: 500px;}
+    /*----------video-end--------*/
+    /***--------Our mission stetment----------***/
+.our-mission-statement-main .mission-content-text {font-size: 20px;line-height: 30px !important;}
+    /***--------Our mission stetment-end----------***/
+}
+
+@media only screen and (max-width:600px) {
+    /****-----------developer-tool-section------***/
+.developer-tool-main .common-margin-sec {padding: 55px 0 50px;}
+.home-banner-bg .banner-contetn .banner-content-title {font-size: 24px;line-height: 34px;}
+.home-banner-bg .banner-contetn .banner-content-sub {font-size: 20px;line-height: 30px;}
+    /****-----------developer-tool-section-end-----***/
+}
+@media(max-width:560px){
+    .home-page-video-main .modal-dialog {
+        position: absolute;
+        width: 100%;
+        margin: 0 auto;
+        top: 20%;
+        padding: 35px;
+    }  
+}
+@media (min-width:736px) and (max-width:767px) {
+    .home-page-video-main button.btn.btn-outline-primary.btn-rounded.btn-md.ml-4 {
+       
+       position: unset; 
+       
+    }
+}
+@media only screen and (max-width:533px) {
+    /*----------banner-start--------*/
+    .homepage-main-class .homepage-banner-title .home-page-sub-title {
+        font-size: 20px !important;
+        padding: 22px 5px 0px 5px !important;
+    }
+
+    .homepage-main-class .homepage-banner-title p {
+        padding: 19px 10px 14px 0px !important;
+    }
+    .homepage-main-class .homepage-banner-title {
+        padding: 10px 10px 26px 0px;
+    }
+    /*----------banner-end--------*/
+    /*----------video-start--------*/
+    .home-page-video-main .image-video-icon {
+        padding: 25px 0px;
+        display: block;
+    }
+
+    .home-page-video-main .bg-image-green {
+        width: 100%;
+        height: 450px;
+    }
+
+    .home-page-video-main .over-content-title {
+        font-size: 29px;
+    }
+
+    .home-page-video-main .over-content-sub-title {
+        font-size: 18px;
+    }
+
+    .home-page-video-main .over-content-below-title {
+        font-size: 19px;
+        padding-top: 15px;
+    }
+
+    /*----------video-end--------*/
+    /****-----------developer-tool-section------***/
+    .home-banner-bg .banner-contetn .banner-content-title {
+        font-size: 23px;
+        line-height: 30px;
+    }
+
+    .home-banner-bg .banner-contetn .banner-content-sub {
+        font-size: 22px;
+        line-height: 26px;
+        margin: 0 0 20px;
+    }
+
+    .home-banner-bg .banner-contetn .get-Started {
+        padding: 8px 24px;
+        font-size: 18px;
+    }
+
+    .home-banner-padding {
+        padding: 0;
+    }
+    /****-----------developer-tool-section-end-----***/
+    /****-----------New-footer-design-----***/
+    .developer-footer .footer-logo-img img {
+        width: 70%;
+    }
+
+    .developer-footer .footer-logo-img {
+        margin-bottom: 24px;
+    }
+
+    .developer-footer .footer-app-image {
+        margin: 15px 0 26px;
+    }
+
+    .developer-footer .tool-button {
+        margin: 20px 0 30px 0;
+    }
+
+    .Slogan-div {
+        margin: 0 auto;
+        width: 300px;
+    }
+
+    .footer-last-section {
+        padding: 0 0 15px 0;
+    }
+
+    .developer-footer .application-content {
+        font-size: 16px;
+    }
+
+    .developer-footer .footer-logo-sec {
+        margin: 0;
+    }
+
+    .developer-footer .footer-app-image img {
+        width: 20%;
+    }
+    /****-----------New-footer-design-end----***/
+	 /************news-letter-subcriber-start*************/
+    .news-letter-home-page .sub-title-news {font-size: 17px;padding: 20px 5px 35px 5px;}
+    .news-letter-home-page .subscriber-btn-new input[type="email"] {height: 36px;}
+    .news-letter-home-page .subscriber-btn-new .input-group-btn .subscribe-btn-main {
+        padding: 6px 10px;
+        font-size: 14px;
+        height: 36px;
+    }
+  
+
+    /************news-letter-subcriber-end*************/
+}
+
+@media only screen and (max-width:480px) {
+    .common-margin-sec {padding: 30px 0;}
+
+    /*****------Roadmap-------*/
+    .cd-timeline-main-div {padding: 30px 0;}
+    #roadmap .content-roadmap-new p {padding: 10px 0 20px;}
+    /*****------Roadmap-end------*/
+    /****-----------developer-tool-section------***/
+    .developer-tool-main.common-margin-sec {padding: 33px 0 30px;}
+    .home-banner-bg .laptop-bg-image {padding: 30px 0px;}
+    .home-banner-bg .banner-contetn .banner-content-sub {font-size: 18px;}
+        /****-----------developer-tool-section-end-----***/
+        .solution-new-slider.new-background {padding: 30px 0 0px;}
+       .solution-new-slider.new-background .content-roadmap-new p {padding: 10px 0 26px 0px;}
+
+    /*----------banner-start--------*/
+    section.veridoc-global-scanner.desktop-view-scanner {padding: 40px 0 40px;}
+      .homepage-main-class .homepage-banner-title .home-page-sub-title {font-size: 19px !important;padding: 13px 5px 0px 5px !important;}
+    .homepage-main-class .homepage-banner-title p {padding: 19px 10px 10px 0px !important;}
+     .homepage-main-class .homepage-banner-title {padding: 10px 5px 27px 5px;}
+    .homepage-banner-img-globe img {width: 87%;margin: 17px auto;}
+    .homepage-banner-img {padding: 0 0 4px !important;}
+    .our-mission-statement-main .mission-content-text {font-size: 18px;line-height: 30px !important;}
+    .banner-btn-main-button {
+        padding: 19px 0px 0px 0px;
+    }
+    /*----------banner-start--------*/
+    /*----------scanner-start--------*/
+    .veridoc-global-scanner.desktop-view-scanner .content-title-scanner {font-size: 29px;}
+  .veridoc-global-scanner.mobile-view-scanner .download-icon-all .android-app img{width:155px;margin-left:15px;}
+  .veridoc-global-scanner.mobile-view-scanner .download-icon-all .ios-app img {width: 155px;}
+  .veridoc-global-scanner.mobile-view-scanner .mobile-view-content-title {font-size: 29px;}
+    .veridoc-global-scanner.mobile-view-scanner .download-icon-all {padding-top: 18px;}
+    .veridoc-global-scanner.mobile-view-scanner .mobile-view-content-title {padding: 20px 0px 16px 0px;}
+    section.veridoc-global-scanner.mobile-view-scanner {padding: 40px 0 40px;}
+    .veridoc-global-scanner.desktop-view-scanner .download-icon-all .ios-app img {
+        width: 155px;
+    }
+    .veridoc-global-scanner.desktop-view-scanner .download-icon-all .android-app img {
+        width: 155px;
+        margin-left: 15px;
+    }
+    /*----------scanner-end--------*/
+
+
+    /****-----------New-footer-design-----***/
+      .developer-footer .application-content {text-align: center !important;}
+    .developer-footer .footer-follow-social-process .social-media-icon a i {font-size: 22px;}
+        /****-----------New-footer-design-end----***/
+		      /************news-letter-subcriber-start*************/
+   
+  .news-letter-home-page {padding: 40px 0px;}
+    .news-letter-home-page h3.roadmap-partners-title {font-size: 30px;}
+        .news-letter-home-page .sub-title-news {font-size: 16px;padding: 15px 5px 30px 5px;}
+        .news-letter-home-page .subscriber-btn-new .input-group input::placeholder {font-size: 14px;}
+.news-letter-home-page .subscriber-btn-new .input-group .form-control {font-size: 14px;}
+    /************news-letter-subcriber-end*************/
+    }
+@media only screen and (max-width:414px) {
+    /*----------banner-start--------*/
+    .homepage-main-class .homepage-banner-title .home-page-sub-title {font-size: 17px !important;}
+    /*----------banner-end--------*/
+    /****-----------developer-tool-section------***/
+    .home-banner-bg .laptop-bg-image {padding: 25px 0px;}
+    /****-----------developer-tool-section-end-----***/
+    /****-----------New-footer-design-----***/
+      .developer-footer .footer-app-image img {width: 22%;}
+    /****-----------New-footer-design-end----***/
+}
+
+@media only screen and (max-width:375px) {
+    /*----------scanner-start--------*/
+      section.veridoc-global-scanner.mobile-view-scanner {padding: 40px 0 40px;}
+    /*----------scanner-end--------*/
+    /*----------banner-start--------*/
+    .homepage-banner-img-globe img {width: 87%;margin: 0px auto;}
+    /*----------banner-end--------*/
+    /*----------video-start--------*/
+    .home-page-video-main .over-content-sub-title {font-size: 16px;}
+    .home-page-video-main .over-content-below-title {font-size: 17px;}
+    .home-page-video-main .over-content-title {font-size: 27px;}
+    /*----------video-end--------*/
+    /***--------Our mission stetment----------***/
+.our-mission-statement-main .our-missoin-text.new-background .our-team-sec-title {font-size: 29px;}
+.our-mission-statement-main .mission-content-text {font-size: 18px;line-height: 30px !important;}
+    /***--------Our mission stetment-end----------***/
+        .home-banner-bg .banner-contetn .banner-content-sub {font-size: 17px;}
+}
+@media(max-width:360px){
+   
+}
